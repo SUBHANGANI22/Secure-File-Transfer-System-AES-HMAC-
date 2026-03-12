@@ -140,6 +140,4 @@ received_report.pdf
 
 ---
 
-## License
 
-MIT
